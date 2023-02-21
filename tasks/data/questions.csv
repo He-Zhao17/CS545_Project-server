@@ -1,0 +1,42 @@
+question,option 1,option 2,option 3,options 4,answer,hasImage,ref,difficulty
+What is the largest urban park in NYC?,Times Square,Manhattan Park,Central Park,Rockefeller Park,Central Park,TRUE,https://media.istockphoto.com/id/1207129168/photo/aerial-view-of-manhattan-new-york-looking-south-up-central-park.jpg?s=612x612&w=0&k=20&c=firZC0uXM842ZHfRknYFBJGg6W6eDFp27uN4WipdGA4=,easy
+Where is Brooklyn?,1,2,3,4,2,TRUE,https://upload.wikimedia.org/wikipedia/commons/1/1a/5_Boroughs_Labels_New_York_City_Map_Julius_Schorzman.png,easy
+Where is Manhattan?,1,2,3,4,1,TRUE,https://upload.wikimedia.org/wikipedia/commons/1/1a/5_Boroughs_Labels_New_York_City_Map_Julius_Schorzman.png,easy
+Where is the Bronx?,1,2,3,4,4,TRUE,https://upload.wikimedia.org/wikipedia/commons/1/1a/5_Boroughs_Labels_New_York_City_Map_Julius_Schorzman.png,easy
+Where is Queens?,2,3,4,5,2,TRUE,https://upload.wikimedia.org/wikipedia/commons/1/1a/5_Boroughs_Labels_New_York_City_Map_Julius_Schorzman.png,easy
+Where is Staten Island,2,3,4,5,5,TRUE,https://upload.wikimedia.org/wikipedia/commons/1/1a/5_Boroughs_Labels_New_York_City_Map_Julius_Schorzman.png,easy
+What river is on the west side of Manhattan?,East River,West River,Hudson River,Brooklyn River,Hudson River,FALSE,,easy
+What river is on the east of Manhattan?,East River,West River,Hudson River,Brooklyn River,East River,FALSE,,
+Which is not a borough of NYC?,Manhattan,Queens,Hoboken,Staten Island,Hoboken,FALSE,,easy
+Which part of Manhattan is Times Square in?,Uptown,Midtown,Downtown,East Village,Midtown,FALSE,,easy
+Which is not a village in NYC?,North Village,Greenwich Village,West Village,East Village,North Village,FALSE,,easy
+Which river flows under Brooklyn Bridge?,Hudson River,East River,Bronx River,West River,East River,TRUE,https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBrooklyn_Bridge&psig=AOvVaw3t3yiotL5cvwfMIjoegd30&ust=1670185264422000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCV1I2j3vsCFQAAAAAdAAAAABAE,easy
+In which New York City borough would someone be able to visit Flushing Meadows-Corona Park?,Manhattan,Bronx,Queens,Brooklyn,Queens,FALSE,,easy
+In which part of Manhattan is Chinatown located?,Lower West Side,Upper East Side,Lower East Side,Upper West Side,Lower East Side,FALSE,,easy
+What nickname is often used to describe Staten Island?,The Melting Pot,The Forgotten Borough,America's City,Empire City,The Forgotten Borough,FALSE,,easy
+The city of New York is made up of ______ boroughs?,3,5,8,4,5,FALSE,,easy
+Which two New York City boroughs are part of Long Island?,Queens and Brooklyn,Bronx and Brooklyn,Manhattan and Bronx,Manhattan and Queens,Queens and Brooklyn,FALSE,,easy
+Which borough would one travel to in order to visit Yankee Stadium?,Queens ,Brooklyn,Manhattan   ,Bronx,Bronx,FALSE,,easy
+Manhattan's East and West Sides are primarily divided by which street?,Park Avenue,33rd Street,5th Avenue,59th Street,5th Avenue,FALSE,,easy
+What is the oldest surviving building in NYC?,Wyckoff House,St. Paul's Chapel,Chrysler Building,Flatiron,Wyckoff House,TRUE,https://upload.wikimedia.org/wikipedia/commons/4/45/Wyckoff-house.jpg,difficult
+What is the population of NYC?,3.78 million,10 million,9.23 million,8.468 million,8.468 million,FALSE,,difficult
+What was NYC originally called?,New Yorkshire,New Amsterdam,York,Hudson,New Amsterdam,FALSE,,difficult
+Which one of the NYC airporst is named after a US president?,LaGuardia Airport,Newark Liberty Airport,John F Kennedy Airport,Franklin Roosevelt Airport,John F Kennedy Airport,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Official_New_York_City_Subway_Map_2013_vc.jpg/1024px-Official_New_York_City_Subway_Map_2013_vc.jpg,difficult
+When did the NYC subway open?,1904,1990,1923,1959,1904,TRUE,https://secretnyc.co/wp-content/uploads/2022/02/subwaygap-1024x701.jpg,difficult
+How long is the subway system?,1409 miles,693 miles,894 miles,365 miles,693 miles,FALSE,,difficult
+NYC was once the capital of the US?,TRUE,FALSE,null,null,TRUE,FALSE,,difficult
+Which newspaper was Times Square named after?,The New Yorker,Wall Street Journal,New York Times,The New York Post,New York Times,FALSE,,difficult
+How tall is the Empire State Building?,2000 feet,884 feet,1454 feet,1837 feet,1454 feet,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Empire_State_Building_%28aerial_view%29.jpg/800px-Empire_State_Building_%28aerial_view%29.jpg,difficult
+Which country gifted the Statue of Liberty?,Ireland,Iceland,Canada,France,France,TRUE,https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/1200/675/statue-of-liberty-1.jpg?ve=1&tl=1,difficult
+What street is the New York stock exchange on?,Bank Street,5th Avenue,Park Avenue,Wall Street,Wall Street,FALSE,,difficult
+Which commericial center can you find the largest christmas trees in the world?,Columbus Circle,Rockefeller Plaza,Hudson Yards,Grand Central Terminal,Rockefeller Plaza,TRUE,https://cdn.sanity.io/images/bs9rmafh/main/443b3e68c46c83b24af1c4d30c8c878189041d10-4500x3000.jpg?w=1600&h=1067&fit=crop,difficult
+Which one of the following museums is not located in New York City?,Metropolitan Museum of Art,American Museum of Natural History ,The Getty ,Museum of Modern Art,The Getty ,FALSE,,difficult
+What is the name of the café in ‘Friends’?,Central Perk,Cafe Coffee Day,Gregory's Coffee,Arbaco,Central Perk,TRUE,https://www.travelandleisure.com/thmb/44-4gLqFVAtX1Ja_KQldq9nif_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/friends-central-perk-new-york-CENTRALPERK1117-46b8d89f2f334d5f85b306abd47fd70e.jpg,difficult
+Which Broadway musical is about one of the founding fathers of the United States?,Hamilton,The Lion King,Wicked,Beetlejuice,Hamilton,FALSE,,difficult
+Which type of cake is New York famous for?,Key Lime Pie,Sticky Toffee Pudding,Panettone,Cheesecake,Cheesecake,FALSE,,difficult
+"On average, how many times per year does the Empire State Building get hit by lightning?",13,18,10,25,25,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Empire_State_Building_%28aerial_view%29.jpg/800px-Empire_State_Building_%28aerial_view%29.jpg,difficult
+"On her first visit to New York, bubbatom1 decides to go and watch the US Open tennis tournament. Which park does she need to go to watch this great event?",Madison Square Garden,Flusing Meadows,New York Indoor Sports Club,Hudson River Park,Flusing Meadows,FALSE,,difficult
+The bridge that connects Upper Manhattan to New Jersey is named after which American President?,George Washington,Barack Obama,John F. Kennedy,Gerald Ford,George Washington,FALSE,,difficult
+This world-famous hotel occupied the site of the Empire State Building until 1931.,Waldorf-Astoria,Gramercy Park Hotel,The Bowery Hotel,The Mercer Hotel,Waldorf-Astoria,FALSE,,difficult
+How many commuter bridges cross the East River?,3,6,9,7,7,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Manhattan_and_Brooklyn_bridges_on_the_East_River%2C_New_York_City%2C_1981.jpg/1200px-Manhattan_and_Brooklyn_bridges_on_the_East_River%2C_New_York_City%2C_1981.jpg,difficult
+Which is the largest New York City borough in terms of its total area?,Queens,Brooklyn,Manhattan   ,Bronx,Queens,FALSE,,difficult

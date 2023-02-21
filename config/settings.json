@@ -1,0 +1,122 @@
+{
+  "mongoConfig": {
+    "serverUrl": "mongodb://localhost:27017/",
+    "database": "Quizial"
+  },
+  "age": {
+    "min": 17,
+    "max": 100
+  },
+  "gender": ["Male", "Female", "Non Binary", "Bisexual"],
+  "questionSchema": [
+    {
+      "key": "hasImage",
+      "type": "boolean",
+      "hasChildren": false
+    },
+    {
+      "key": "imageMeta",
+      "type": "object",
+      "hasChildren": true,
+      "children": [
+        {
+          "key": "ref",
+          "type": "string",
+          "null": true
+        }
+      ]
+    },
+    {
+      "key": "question",
+      "type": "string",
+      "hasChildren": false
+    },
+    {
+      "key": "options",
+      "type": "array",
+      "hasChildren": false
+    },
+    {
+      "key": "answer",
+      "type": "string",
+      "hasChildren": false
+    },
+    {
+      "key": "difficulty",
+      "type": "string",
+      "hasChildren": false
+    }
+  ],
+  "quizSchema": [
+    {
+      "key": "userId",
+      "type": "string",
+      "hasChildren": false
+    },
+    {
+      "key": "totalScore",
+      "type": "number",
+      "hasChildren": false
+    },
+    {
+      "key": "answers",
+      "type": "array",
+      "hasChildren": true,
+      "children": [
+        {
+          "key": "correctAnswer",
+          "type": "string"
+        },
+        {
+          "key": "question",
+          "type": "string"
+        },
+        {
+          "key": "userSubmittedAnswer",
+          "type": "string"
+        },
+        {
+          "key": "score",
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "key": "type",
+      "type": "string",
+      "hasChildren": false
+    }
+  ],
+  "forumSchema": [
+    {
+      "key": "createdById",
+      "type": "string",
+      "hasChildren": false
+    },
+    {
+      "key": "title",
+      "type": "string",
+      "hasChildren": false
+    },
+    {
+      "key": "username",
+      "type": "string",
+      "hasChildren": false
+    },
+    {
+      "key": "body",
+      "type": "string",
+      "hasChildren": false
+    },
+    {
+      "key": "comments",
+      "type": "array",
+      "hasChildren": false
+    },
+    {
+      "key": "votes",
+      "type": "number",
+      "hasChildren": false
+    }
+  ]
+}
